@@ -3,4 +3,4 @@ lib/.sass-cache/
 dist/
 css/
 lib/node_modules/
-js/fb-getter.js
+js/firebase-getter.js
